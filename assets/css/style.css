@@ -57,16 +57,16 @@
     color: white;
   }
   nav ul li:nth-child(1) a {
-    background-color: #69AF23;
+    background-color: #b9d19f;
   }
   nav ul li:nth-child(2n) a {
-    background-color: #008737;
+    background-color: #a8bf90;
   }
   nav ul li:nth-child(3n) a {
-    background-color: #1c5e17;
+    background-color: #92a87a;
   }
   nav ul li:nth-child(4n) a {
-    background-color: #194915;
+    background-color: #81956b;
   }
   
 html {
