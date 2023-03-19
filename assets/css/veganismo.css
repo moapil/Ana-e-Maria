@@ -1,6 +1,6 @@
   body {
     font-family: 'Source Sans Pro', sans-serif;
-    background-color: #afafaf;
+    background-color: whitesmoke;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,13 +23,15 @@ main{
     display: flex;
     justify-content: space-between;
     /* display: flex; */
+    background-color: whitesmoke;
+
 }
 .container{
     width: 100%;
     height: 270px;
     margin: 1rem;
     border-radius: 1rem;
-    background-color: #a0a0a0;
+    background-color: #a8bf90;
     box-shadow: 10px 10px 8px rgba(0, 0, 0, 0.351);
 }
 h1{
@@ -53,6 +55,8 @@ h2{
     text-align: left;
     color: whitesmoke;
     font-weight: lighter;
+    height: 1500x;
+    width: 100%;
 }
 
 .container2{
@@ -60,7 +64,7 @@ h2{
     height: 620px;
     margin: 1rem;
     border-radius: 1rem;
-    background-color: #a0a0a0;
+    background-color: #a8bf90;
     box-shadow: 10px 10px 8px rgba(0, 0, 0, 0.351);
 }
 h3{
@@ -77,4 +81,11 @@ h3{
     text-align: left;
     color: whitesmoke;
     font-weight: lighter;
+}
+
+
+
+.terceiro{
+    background-color: #a8bf90;
+    width: 100rem; 
 }

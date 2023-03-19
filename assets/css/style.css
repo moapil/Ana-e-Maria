@@ -62,9 +62,6 @@ nav ul li:nth-child(2n) a {
 nav ul li:nth-child(3n) a {
   background-color: #92a87a;
 }
-nav ul li:nth-child(4n) a {
-  background-color: #81956b;
-}
 
 /* títulos */
 .textos {
@@ -81,11 +78,15 @@ h1, h2, h3 {
 }
 
 h1{
-  font-weight: lighter;
+  font-weight: bold;
 }
 
 h2, h3 {
-  font-weight: bold;
+  font-weight: bolder;
+}
+
+h2{
+ color: #81956b;
 }
 
 .texto1 {
