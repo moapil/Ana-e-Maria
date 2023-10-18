@@ -1,2 +1,2 @@
-link do site
-https://app.netlify.com/sites/veganismo/overview
+link do site <br>
+https://veganismo.netlify.app/
